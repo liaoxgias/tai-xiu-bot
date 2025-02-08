@@ -160,5 +160,185 @@
         "bet": 10000,
         "isWin": true,
         "money": 71900.0
+    },
+    {
+        "game_count": 20,
+        "tai": 1152495814,
+        "xiu": 579320832,
+        "door": "xiu",
+        "bet": 10000,
+        "isWin": true,
+        "money": 81700.0
+    },
+    {
+        "game_count": 21,
+        "tai": 872453271,
+        "xiu": 1070028061,
+        "door": "tai",
+        "bet": 10000,
+        "isWin": true,
+        "money": 91500.0
+    },
+    {
+        "game_count": 22,
+        "tai": 786696204,
+        "xiu": 681530467,
+        "door": "xiu",
+        "bet": 10000,
+        "isWin": true,
+        "money": 101300.0
+    },
+    {
+        "game_count": 23,
+        "tai": 1719128145,
+        "xiu": 1218889220,
+        "door": "xiu",
+        "bet": 10000,
+        "isWin": true,
+        "money": 111100.0
+    },
+    {
+        "game_count": 24,
+        "tai": 713973578,
+        "xiu": 1142310511,
+        "door": "tai",
+        "bet": 10000,
+        "isWin": true,
+        "money": 120900.0
+    },
+    {
+        "game_count": 25,
+        "tai": 1550056930,
+        "xiu": 1781458070,
+        "door": "tai",
+        "bet": 10000,
+        "isWin": false,
+        "money": 110900.0
+    },
+    {
+        "game_count": 26,
+        "tai": 1108623770,
+        "xiu": 1695288944,
+        "door": "tai",
+        "bet": 10000,
+        "isWin": true,
+        "money": 120700.0
+    },
+    {
+        "game_count": 27,
+        "tai": 1010440288,
+        "xiu": 1156905195,
+        "door": "tai",
+        "bet": 10000,
+        "isWin": true,
+        "money": 130500.0
+    },
+    {
+        "game_count": 28,
+        "tai": 917032799,
+        "xiu": 1189451685,
+        "door": "tai",
+        "bet": 10000,
+        "isWin": false,
+        "money": 120500.0
+    },
+    {
+        "game_count": 29,
+        "tai": 813141370,
+        "xiu": 1320420246,
+        "door": "tai",
+        "bet": 10000,
+        "isWin": true,
+        "money": 130300.0
+    },
+    {
+        "game_count": 30,
+        "tai": 1261411295,
+        "xiu": 1577396684,
+        "door": "tai",
+        "bet": 10000,
+        "isWin": true,
+        "money": 140100.0
+    },
+    {
+        "game_count": 31,
+        "tai": 438994994,
+        "xiu": 877064403,
+        "door": "tai",
+        "bet": 10000,
+        "isWin": false,
+        "money": 130100.0
+    },
+    {
+        "game_count": 32,
+        "tai": 988547351,
+        "xiu": 837436054,
+        "door": "xiu",
+        "bet": 10000,
+        "isWin": true,
+        "money": 139900.0
+    },
+    {
+        "game_count": 33,
+        "tai": 1439238828,
+        "xiu": 1177367546,
+        "door": "xiu",
+        "bet": 10000,
+        "isWin": true,
+        "money": 149700.0
+    },
+    {
+        "game_count": 34,
+        "tai": 1462028666,
+        "xiu": 1325307020,
+        "door": "xiu",
+        "bet": 10000,
+        "isWin": false,
+        "money": 139700.0
+    },
+    {
+        "game_count": 35,
+        "tai": 1118925602,
+        "xiu": 1583707441,
+        "door": "tai",
+        "bet": 10000,
+        "isWin": false,
+        "money": 129700.0
+    },
+    {
+        "game_count": 36,
+        "tai": 1519894412,
+        "xiu": 1403744872,
+        "door": "xiu",
+        "bet": 20000,
+        "isWin": false,
+        "money": 109700.0
+    },
+    {
+        "game_count": 37,
+        "tai": 1800223960,
+        "xiu": 1464220617,
+        "door": "xiu",
+        "bet": 40000,
+        "isWin": true,
+        "money": 148900.0
+    },
+    {
+        "game_count": 38,
+        "tai": 901598986,
+        "xiu": 1131233314,
+        "door": "tai",
+        "bet": 10000,
+        "isWin": false,
+        "money": 138900.0
+    },
+    {
+        "game_count": 39,
+        "tai": 902192660,
+        "xiu": 1178537334,
+        "door": "tai",
+        "bet": 10000,
+        "isWin": true,
+        "money": 148700.0
     }
 ]

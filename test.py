@@ -7,8 +7,8 @@ import json
 import time
 
 defaultBetValue = 10_000
-ACC_TEXT = "trannam55"
-PASS_TEXT = "TRANnam55"
+ACC_TEXT = ""
+PASS_TEXT = ""
 SPRINT = 0
 BET_REAL = True
 
