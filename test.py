@@ -11,6 +11,7 @@ ACC_TEXT = ""
 PASS_TEXT = ""
 SPRINT = 0
 BET_REAL = True
+CHAY_NGAM = False
 
 currentBetValue = defaultBetValue
 history = []
@@ -409,7 +410,7 @@ def is_valid_event(data):
     return True  # Nếu tất cả điều kiện đều đúng, dữ liệu hợp lệ
 
 with sync_playwright() as p:
-    browser = p.chromium.launch(headless=False)  # headless=False để hiển thị trình duyệt
+    browser = p.chromium.launch(headless=CHAY_NGAM)  # headless=False để hiển thị trình duyệt
     page = browser.new_page()
     page.on("websocket", on_websocket)
     
