@@ -142,5 +142,23 @@
         "bet": 10000,
         "isWin": false,
         "money": 52300.0
+    },
+    {
+        "game_count": 18,
+        "tai": 1206404265,
+        "xiu": 778040360,
+        "door": "xiu",
+        "bet": 10000,
+        "isWin": true,
+        "money": 62100.0
+    },
+    {
+        "game_count": 19,
+        "tai": 1311178420,
+        "xiu": 986568538,
+        "door": "xiu",
+        "bet": 10000,
+        "isWin": true,
+        "money": 71900.0
     }
 ]
