@@ -2,6 +2,6 @@ python -m venv venv
 venv\Scripts\activate
 
 pip install numpy playwright opencv-python pillow
-playwright install
+playwright install chromium
 
 venv\Scripts\deactivate
