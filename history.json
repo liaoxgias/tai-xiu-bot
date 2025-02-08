@@ -1,0 +1,110 @@
+[
+    {
+        "game_count": 2,
+        "tai": 1187802216,
+        "xiu": 1644888940,
+        "door": "tai",
+        "bet": 10000,
+        "isWin": false,
+        "money": 24300
+    },
+    {
+        "game_count": 3,
+        "tai": 1008023590,
+        "xiu": 637235226,
+        "door": "xiu",
+        "bet": 10000,
+        "isWin": true,
+        "money": 34100.0
+    },
+    {
+        "game_count": 4,
+        "tai": 1062355876,
+        "xiu": 1134297972,
+        "door": "tai",
+        "bet": 10000,
+        "isWin": true,
+        "money": 43900.0
+    },
+    {
+        "game_count": 5,
+        "tai": 1617854996,
+        "xiu": 1202281630,
+        "door": "xiu",
+        "bet": 10000,
+        "isWin": false,
+        "money": 33900.0
+    },
+    {
+        "game_count": 6,
+        "tai": 730558454,
+        "xiu": 726699910,
+        "door": "xiu",
+        "bet": 10000,
+        "isWin": true,
+        "money": 43700.0
+    },
+    {
+        "game_count": 7,
+        "tai": 1128650340,
+        "xiu": 1824048006,
+        "door": "tai",
+        "bet": 10000,
+        "isWin": true,
+        "money": 53500.0
+    },
+    {
+        "game_count": 8,
+        "tai": 885637252,
+        "xiu": 745521980,
+        "door": "xiu",
+        "bet": 10000,
+        "isWin": false,
+        "money": 43500.0
+    },
+    {
+        "game_count": 9,
+        "tai": 1274026370,
+        "xiu": 1433412746,
+        "door": "tai",
+        "bet": 10000,
+        "isWin": true,
+        "money": 53300.0
+    },
+    {
+        "game_count": 10,
+        "tai": 876611812,
+        "xiu": 596640040,
+        "door": "xiu",
+        "bet": 10000,
+        "isWin": true,
+        "money": 63100.0
+    },
+    {
+        "game_count": 11,
+        "tai": 1152215561,
+        "xiu": 1295081188,
+        "door": "tai",
+        "bet": 10000,
+        "isWin": false,
+        "money": 53100.0
+    },
+    {
+        "game_count": 12,
+        "tai": 932773294,
+        "xiu": 789158664,
+        "door": "xiu",
+        "bet": 10000,
+        "isWin": false,
+        "money": 43100.0
+    },
+    {
+        "game_count": 13,
+        "tai": 1180784983,
+        "xiu": 1814903424,
+        "door": "tai",
+        "bet": 20000,
+        "isWin": true,
+        "money": 62700.0
+    }
+]
