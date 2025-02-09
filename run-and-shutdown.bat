@@ -14,8 +14,6 @@ py test.py
 REM Hiển thị log trước khi đóng
 echo.
 echo ---- LOG KẾT THÚC ----
-echo Nhấn phím bất kỳ để thoát...
-pause
 
 REM Deactivate
 call venv\Scripts\deactivate
