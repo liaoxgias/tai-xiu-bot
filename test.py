@@ -7,8 +7,8 @@ import json
 import time
 
 defaultBetValue = 10_000
-ACC_TEXT = ""
-PASS_TEXT = ""
+ACC_TEXT = "trannam55"
+PASS_TEXT = "TRANnam55"
 SPRINT = 0
 BET_REAL = True
 CHAY_NGAM = False
@@ -476,7 +476,7 @@ with sync_playwright() as p:
                 
             ## Wait to bet.
             if is_start and not is_beted:
-                if (currentMoney == 0):
+                if (currentMoney <= 0):
                     print("DJTME hết tiền rồi")
                     exit(1)
                 isAllIn = currentMoney < currentBetValue
